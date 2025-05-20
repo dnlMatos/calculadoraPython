@@ -14,3 +14,4 @@ def get_operation():
             return operacao
         else:
             print("Operação inválida! Tente novamente.")
+ 

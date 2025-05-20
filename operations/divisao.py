@@ -4,3 +4,4 @@ def dividir(a, b):
     except ZeroDivisionError:
         print("Erro: Divisão por zero não é permitida.")
         return None
+ 
